@@ -1,0 +1,6 @@
+﻿message_id,timestamp,sender,message,yanıtlanmış_mı,sentiment,kategori,intent
+1,2024-01-15T10:30:00,müşteri_1,"Merhaba, düğün mekanı arıyorum. Bahçeli bir yer önerebilir misiniz?",Hayır,Nötr,Düğün mekanı,Ürün arıyor
+2,2024-01-15T10:32:00,destek_1,Merhaba! Tabii ki. Hangi bölgede düğün mekanı arıyorsunuz?,Evet,Nötr,Düğün mekanı,Bilgi soruyor
+3,2024-01-15T10:35:00,müşteri_1,İstanbul Avrupa yakasında olsun. Fiyatları nasıl?,Evet,Nötr,Fiyat sorgusu,Bilgi soruyor
+4,2024-01-15T10:40:00,müşteri_2,Gelinlik modelleri çok güzel! Teşekkür ederim.,Hayır,Pozitif,Gelinlik,Teşekkür ediyor
+5,2024-01-15T11:00:00,müşteri_3,Fotoğrafçı rezervasyonu nasıl yapabilirim? Acil cevap bekliyorum.,Hayır,Nötr,Fotoğrafçı,Bilgi soruyor
