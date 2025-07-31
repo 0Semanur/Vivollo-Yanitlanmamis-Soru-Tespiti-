@@ -120,4 +120,3 @@ visualizer.create_comprehensive_report()
 - İptal ediyor
 - Değişiklik istiyor
 
-## 📁 Dosya Yapısı
